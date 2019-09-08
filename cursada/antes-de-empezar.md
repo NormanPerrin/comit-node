@@ -1,7 +1,5 @@
 # Antes de empezar
 
-Mientras antes instalado, mejor.
-
 No hace falta conocimientos específicos para instalar estos recursos.
 
 Mis recomendaciones están con ⭐️.
@@ -30,18 +28,7 @@ Mis recomendaciones están con ⭐️.
 - Instalar manejador versiones Node.js]: `npm install -g n`.
 - [Git](https://git-scm.com/book/es/v2).
 
-## No urgente
+## Plataformas
 
-Instalar:
-
-- [Mongo Compass](https://www.mongodb.com/products/compass).
-
-Crearse cuentas en:
-
-- [GitHub](http://github.com).
-- [Heroku](https://heroku.com).
-- [Netlify](http://netlify.com).
-
-## Repasar temas
-
-Por último les recomiendo repasar conceptos de desarrollo web: HTML, CSS, JS: [Guías iniciales](https://trello.com/c/vgL3BofU/1-gu%C3%ADas-desarrollo-web).
+- Aceptar invitación para unirse al Slack de la cursada.
+- Crearse cuenta en [GitHub](http://github.com).
