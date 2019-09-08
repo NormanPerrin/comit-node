@@ -10,9 +10,7 @@ Para el final de la cursada deberán poder saber cómo encarar proyectos relacio
 
 ## Planificación
 
-Vamos a usar un [tablero de Trello](https://trello.com/b/WnTnqn5C/curso-node) para ordenar **material de cursada**, centralizar **vínculos** importantes, como **canales de comunicación** y los **apuntes de clase**.
-
-También [este repositorio](https://github.com/NormanPerrin/comit-node) para subir apuntes.
+Vamos a usar [este repositorio](https://github.com/NormanPerrin/comit-node) para subir todo el material de la cursada.
 
 ## Clases
 

@@ -2,10 +2,10 @@
 
 Este repositorio contiene material de la cursada, apuntes de las clases, la planificación, y más (supongo).
 
-## Hipervínculos importantes
+## Comunicación
 
-- [Tablero Trello](https://trello.com/b/WnTnqn5C/curso-node): planificación de clase.
-- [Slack](https://comit-nodejs.slack.com): canal de comunicaciones.
+- [Slack](https://comit-nodejs.slack.com).
+- Mail: `norman.perrin.94 [📫] gmail.com`
 
 ## Profesores
 
