@@ -10,7 +10,7 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 ## Profesores
 
 - [Norman Perrin](https://github.com/normanperrin).
-- Fernando Diaz.
+- [Fernando Díaz](https://github.com/ferdiaz93).
 
 ## Alumnos
 
