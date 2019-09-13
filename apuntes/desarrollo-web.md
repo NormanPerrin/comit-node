@@ -16,3 +16,11 @@
 - [HTML](https://developer.mozilla.org/es/docs/Glossary/HTML).
 - [Metadatos](https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/Metados_en).
 - [Elementos HTML](https://developer.mozilla.org/es/docs/Web/HTML/Elemento).
+
+## CSS
+
+### [Guía introductoria](https://www.w3schools.com/css/css_intro.asp)
+
+Para leer en castellano, usar el botón de traductor, que está en el menú de navegación con ícono de mundo, al costado derecho.
+
+La guía está dividida en partes, para avanzar con la guía tienen que tocar los botones de "Siguiente >" o "< Anterior".
