@@ -23,10 +23,10 @@ Clase continuación HTML e introducción CSS. Vimos...
 
 ## Pendientes profe
 
-- Subir explicación **rutas relativas y absolutas**.
-- Subir explicación etiqueta `meta` para `viewport`.
+- Subir explicación **rutas relativas y absolutas**: [enlace](/apuntes/rutas-absolutas-y-relativas.md).
+- Subir explicación etiqueta `meta` para `viewport`: [enlace](/apuntes/vscode-meta-elementos-defecto.md).
 - Subir explicación estilos con `div` y `span`, explicando dónde se suele usar cada uno.
-- Subir explicación estilos con distintas unidades de medición, `vh`, `vw`, `px`.
+- Subir explicación estilos con distintas unidades de medición, `vh`, `vw`, `px`, `%`.
 - Subir video atajos VSCode.
 
 ## Enlaces
