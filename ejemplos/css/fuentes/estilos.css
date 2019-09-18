@@ -1,0 +1,17 @@
+html {
+    /* Probar de modificar este valor */
+    font-size: 30px;
+    font-family: 'Cute Font', cursive;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.7rem;
+}
+
+p {
+    font-size: 1rem;
+}
