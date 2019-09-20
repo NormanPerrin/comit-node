@@ -13,5 +13,4 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 - [Fernando Díaz](https://github.com/ferdiaz93).
 
 ## Alumnos
-
-- ?
+- [Agustín Romero Maturano](https://github.com/Maturano98).
