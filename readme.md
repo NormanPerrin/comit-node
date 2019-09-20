@@ -14,5 +14,7 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 
 
 ## Alumnos
+-[Jose Roman](https://github.com/Joseroman12).
 
 - [Pau Chena](https://github.com/pauchena).
+
