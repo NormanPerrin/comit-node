@@ -1,0 +1,37 @@
+<!-- https://developer.mozilla.org/es/docs/Web/HTML/Elemento#Formularios -->
+
+<!--
+  Para que funcione con Formspree tienen que abrir su archivo a través
+  de un servidor local, o sea, en vez de con `file://` o `C://`, con
+  `http://127.0.0.1:PUERTO`.
+
+  Para eso tienen algunas opciones:
+
+  1. Descargarse y usar un módulo de node:
+  `npm i -g serve` -> https://www.npmjs.com/package/serve
+
+  2. Usar un plugin de VSCode: Live serve.
+
+  3. Usar un plugin para Chrome: Web server for Google.
+
+  Por último, por alguna razón no me funciona bien con Brave,
+  prueben con Firefox.
+-->
+
+<form action="https://formspree.io/tu.mail@gmail.com" method="POST">
+
+  <label for="nombre">Nombre</label>
+  <input type="text" name="nombre" id="nombre">
+
+  <label for="email">Email</label>
+  <input type="email" name="_replyto" id="email">
+
+  <label for="mensaje">Mensaje</label>
+  <textarea name="mensaje" id="mensaje"></textarea>
+
+  <!--
+    También se puede agregar un button:
+    <button type="submit">Enviar</button>
+  -->
+  <input type="submit" value="Enviar">
+</form>
