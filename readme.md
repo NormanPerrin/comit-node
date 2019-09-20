@@ -15,6 +15,7 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 
 ## Alumnos
 
+- [Antonella Ravaioli] (https://github.com/antorava1)
 - [Agustín Romero Maturano](https://github.com/Maturano98).
 - [Carolina Barreto](https://github.com/caro-barreto).
 - [Oswaldo Alvarez](https://github.com/AnubisSekhmet).
