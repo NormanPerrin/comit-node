@@ -15,6 +15,7 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 
 ## Alumnos
 
+- [Jose Roman](https://github.com/Joseroman12).
 - [Emma Barrionuevo](https://github.com/Victor-emanuel)
 - [Cristian Dominguez](https://github.com/cristiand391).
 - [Ariel Jans](https://github.com/ArielJans).
