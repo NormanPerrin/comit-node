@@ -33,4 +33,5 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 - [Laura Juiz](https://github.com/laurajuanna).
 - [Agustín Xavier Castellani Abriola](https://github.com/agustinxca).
 - [Julio Cabo](https://github.com/juliocabo).
+- [Galeano Maximiliano](https://github.com/Axewound97).
 - [Braian Alderete](https://github.com/alderetebraian).
