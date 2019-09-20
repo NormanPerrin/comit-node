@@ -5,10 +5,12 @@ Hablamos sobre `git` y `GitHub`.
 ## Enlaces
 
 - [Guía introducción a Git y GitHub](https://nperrin.io/es/tech/guia-introduccion-a-git#introducci%C3%B3n).
+- [Video: clase, introducción a la terminal, git y GitHub](https://youtu.be/bCjc1p0FWro).
+- [Video: cómo hacer un PR con git](https://youtu.be/AOf6LdZS72w).
+- [Extra: mergeando sus PRs](https://youtu.be/fhx6DtQvksE).
 
 ## Pendientes profe
 
-- Subir video explicación Git y GitHub.
 - Subir comandos terminal para gestión de archivos.
 
 ## Pendientes alumnos
