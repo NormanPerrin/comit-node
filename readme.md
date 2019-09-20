@@ -15,6 +15,7 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 
 ## Alumnos
 
+- [Florencia Quatrin](https://github.com/apuyina)
 - [Maira Duarte](https://github.com/mairasaideduarte)
 - [Jose Quisbert](https://github.com/jlq05).
 - [Carolina Barreto](https://github.com/caro-barreto).
