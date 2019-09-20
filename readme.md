@@ -15,6 +15,7 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 
 ## Alumnos
 
+- [Oswaldo Alvarez](https://github.com/AnubisSekhmet).
 - [Flor Belascuain](https://github.com/lachinu1).
 - [Florencia Quatrin](https://github.com/apuyina)
 - [Maira Duarte](https://github.com/mairasaideduarte)
