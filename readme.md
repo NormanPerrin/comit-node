@@ -17,3 +17,4 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 
 - [Carolina Barreto](https://github.com/caro-barreto).
 - [Pau Chena](https://github.com/pauchena).
+- [Eliana Silva](https://github.com/eliags).
