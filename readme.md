@@ -15,3 +15,4 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 ## Alumnos
 
 - ?
+[Flor Belascuain] (https://github.com/lachinu1).
