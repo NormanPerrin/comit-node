@@ -35,7 +35,7 @@ $ pwd
 
 Qué pasa si hacen `git init` en una carpeta incorrecta, como la de la base de su sistema?
 
-Pueden borrar la carpeta `,git` de esa carpeta, y ya no les va a hacer un seguimiento de historial de esos directorios o archivos.
+Pueden borrar la carpeta `.git` de esa carpeta, y ya no les va a hacer un seguimiento de historial de esos directorios o archivos.
 
 Borrar carpeta `.git`:
 
