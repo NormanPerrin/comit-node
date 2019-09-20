@@ -16,4 +16,5 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 ## Alumnos
 
 - Galeano, Maximiliano
+- [Carolina Barreto](https://github.com/caro-barreto).
 - [Pau Chena](https://github.com/pauchena).
