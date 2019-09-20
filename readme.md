@@ -15,6 +15,7 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 
 ## Alumnos
 
+- [Jose Quisbert](https://github.com/jlq05).
 - [Carolina Barreto](https://github.com/caro-barreto).
 - [Pau Chena](https://github.com/pauchena).
 - [Laura Juiz](https://github.com/laurajuanna).
