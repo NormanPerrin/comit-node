@@ -9,6 +9,7 @@ Hablamos sobre `git` y `GitHub`.
 ## Pendientes profe
 
 - Subir video explicación Git y GitHub.
+- Subir comandos terminal para gestión de archivos.
 
 ## Pendientes alumnos
 
