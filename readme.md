@@ -14,4 +14,4 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 
 ## Alumnos
 
-- Laura Juiz
+- [Laura Juiz](https://github.com/laurajuanna).
