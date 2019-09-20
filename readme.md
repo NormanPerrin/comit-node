@@ -12,6 +12,8 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 - [Norman Perrin](https://github.com/normanperrin).
 - [Fernando Díaz](https://github.com/ferdiaz93).
 
+
 ## Alumnos
 
 - Galeano, Maximiliano
+- [Pau Chena](https://github.com/pauchena).
