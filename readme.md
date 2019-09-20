@@ -15,5 +15,5 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 
 ## Alumnos
 
-- [Carolina Barreto] (https://github.com/caro-barreto).
+- [Carolina Barreto](https://github.com/caro-barreto).
 - [Pau Chena](https://github.com/pauchena).
