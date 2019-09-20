@@ -31,4 +31,5 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 - [Pau Chena](https://github.com/pauchena).
 - [Eliana Silva](https://github.com/eliags).
 - [Laura Juiz](https://github.com/laurajuanna).
+- [Agustín Xavier Castellani Abriola](https://github.com/agustinxca).
 - [Julio Cabo](https://github.com/juliocabo).
