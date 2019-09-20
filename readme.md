@@ -16,5 +16,8 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 ## Alumnos
 -[Jose Roman](https://github.com/Joseroman12).
 
+- [Carolina Barreto](https://github.com/caro-barreto).
 - [Pau Chena](https://github.com/pauchena).
+
+- [Laura Juiz](https://github.com/laurajuanna).
 
