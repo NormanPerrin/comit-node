@@ -15,11 +15,12 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 
 ## Alumnos
 
+- [Agustín Romero Maturano](https://github.com/Maturano98).
+- [Carolina Barreto](https://github.com/caro-barreto).
 - [Oswaldo Alvarez](https://github.com/AnubisSekhmet).
 - [Flor Belascuain](https://github.com/lachinu1).
 - [Florencia Quatrin](https://github.com/apuyina)
 - [Maira Duarte](https://github.com/mairasaideduarte)
 - [Jose Quisbert](https://github.com/jlq05).
-- [Carolina Barreto](https://github.com/caro-barreto).
 - [Pau Chena](https://github.com/pauchena).
 - [Laura Juiz](https://github.com/laurajuanna).
