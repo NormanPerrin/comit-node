@@ -14,4 +14,4 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 
 ## Alumnos
 
-- ?
+- [Jose Quisbert] (https://github.com/jlq05).
