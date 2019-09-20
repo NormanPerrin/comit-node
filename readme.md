@@ -13,5 +13,4 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 - [Fernando Díaz](https://github.com/ferdiaz93).
 
 ## Alumnos
-
-- ?
+-[Fabricio Damian Dominguez](https://github.com/DamianDomzz)
