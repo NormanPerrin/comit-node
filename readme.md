@@ -14,4 +14,4 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 
 ## Alumnos
 
-- Florencia Quatrin https://github.com/apuyina
+- [Florencia Quatrin](https://github.com/apuyina)
