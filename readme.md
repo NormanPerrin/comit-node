@@ -15,6 +15,7 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 
 ## Alumnos
 
+- [Lucrecia Baluczynsky](https://github.com/Lubigsis).
 - [Fabricio Damian Dominguez](https://github.com/DamianDomzz).
 - [Jose Roman](https://github.com/Joseroman12).
 - [Emma Barrionuevo](https://github.com/Victor-emanuel).
