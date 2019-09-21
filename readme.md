@@ -16,3 +16,4 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 
 - Lucrecia Baluczynsky.
 - Lucrecia
+- Lucrecia Baluczynsky
