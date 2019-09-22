@@ -34,5 +34,6 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 - [Laura Juiz](https://github.com/laurajuanna).
 - [Lucrecia Baluczynsky](https://github.com/Lubigsis).
 - [Maira Duarte](https://github.com/mairasaideduarte)
+- [Natalia Petito](https://github.com/nataliapetito).
 - [Oswaldo Alvarez](https://github.com/AnubisSekhmet).
 - [Pau Chena](https://github.com/pauchena).
