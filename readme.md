@@ -14,8 +14,6 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 
 ## Alumnos
 
-
-=======
 - [Agustín Romero Maturano](https://github.com/Maturano98).
 - [Agustín Xavier Castellani Abriola](https://github.com/agustinxca).
 - [Antonella Ravaioli](https://github.com/antorava1).
@@ -37,6 +35,5 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 - [Maira Duarte](https://github.com/mairasaideduarte)
 - [Natalia Petito](https://github.com/nataliapetito).
 - [Oswaldo Alvarez](https://github.com/AnubisSekhmet).
-- [Pau Chena](https://github.com/pauchena).
 - [Paloma Indart](https://github.com/palomaindart).
-
+- [Pau Chena](https://github.com/pauchena).
