@@ -15,25 +15,24 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 
 ## Alumnos
 
-- [Lucrecia Baluczynsky](https://github.com/Lubigsis).
-- [Fabricio Damian Dominguez](https://github.com/DamianDomzz).
-- [Jose Roman](https://github.com/Joseroman12).
-- [Emma Barrionuevo](https://github.com/Victor-emanuel).
-- [Cristian Dominguez](https://github.com/cristiand391).
-- [Ariel Jans](https://github.com/ArielJans).
-- [Antonella Ravaioli](https://github.com/antorava1).
 - [Agustín Romero Maturano](https://github.com/Maturano98).
+- [Agustín Xavier Castellani Abriola](https://github.com/agustinxca).
+- [Antonella Ravaioli](https://github.com/antorava1).
+- [Ariel Jans](https://github.com/ArielJans).
+- [Braian Alderete](https://github.com/alderetebraian).
 - [Carolina Barreto](https://github.com/caro-barreto).
-- [Oswaldo Alvarez](https://github.com/AnubisSekhmet).
+- [Cristian Dominguez](https://github.com/cristiand391).
+- [Eliana Silva](https://github.com/eliags).
+- [Emma Barrionuevo](https://github.com/Victor-emanuel).
+- [Fabricio Damian Dominguez](https://github.com/DamianDomzz).
 - [Flor Belascuain](https://github.com/lachinu1).
 - [Florencia Quatrin](https://github.com/apuyina).
-- [Maira Duarte](https://github.com/mairasaideduarte).
+- [Galeano Maximiliano](https://github.com/Axewound97).
 - [Jose Quisbert](https://github.com/jlq05).
-- [Pau Chena](https://github.com/pauchena).
-- [Eliana Silva](https://github.com/eliags).
-- [Laura Juiz](https://github.com/laurajuanna).
-- [Galeano Maximiliano](https://github.com/Axewound97).
-- [Agustín Xavier Castellani Abriola](https://github.com/agustinxca).
+- [Jose Roman](https://github.com/Joseroman12).
 - [Julio Cabo](https://github.com/juliocabo).
-- [Galeano Maximiliano](https://github.com/Axewound97).
-- [Braian Alderete](https://github.com/alderetebraian).
+- [Laura Juiz](https://github.com/laurajuanna).
+- [Lucrecia Baluczynsky](https://github.com/Lubigsis).
+- [Maira Duarte](https://github.com/mairasaideduarte)
+- [Oswaldo Alvarez](https://github.com/AnubisSekhmet).
+- [Pau Chena](https://github.com/pauchena).

@@ -13,6 +13,7 @@
 - Generador formularios.
 - Subscripción a noticias para un sitio (RSS like).
 - Login.
+- Calculadora de crédito en la SUBE.
 
 ---
 
