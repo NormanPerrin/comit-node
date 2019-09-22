@@ -5,10 +5,10 @@ Hablamos sobre `git` y `GitHub`.
 ## Enlaces
 
 - [Guía introducción a Git y GitHub](https://nperrin.io/es/tech/guia-introduccion-a-git#introducci%C3%B3n).
-
-## Pendientes profe
-
-- Subir video explicación Git y GitHub.
+- [Resumen comandos terminal](/apuntes/comandos-terminal.md).
+- [Video: clase, introducción a la terminal, git y GitHub](https://youtu.be/bCjc1p0FWro).
+- [Video: cómo hacer un PR con git](https://youtu.be/AOf6LdZS72w).
+- [Extra: mergeando sus PRs](https://youtu.be/fhx6DtQvksE).
 
 ## Pendientes alumnos
 
@@ -35,7 +35,7 @@ $ pwd
 
 Qué pasa si hacen `git init` en una carpeta incorrecta, como la de la base de su sistema?
 
-Pueden borrar la carpeta `,git` de esa carpeta, y ya no les va a hacer un seguimiento de historial de esos directorios o archivos.
+Pueden borrar la carpeta `.git` de esa carpeta, y ya no les va a hacer un seguimiento de historial de esos directorios o archivos.
 
 Borrar carpeta `.git`:
 

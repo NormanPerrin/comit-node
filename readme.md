@@ -15,9 +15,24 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 
 ## Alumnos
 
-- [Florencia Quatrin](https://github.com/apuyina)
-- [Maira Duarte](https://github.com/mairasaideduarte)
-- [Jose Quisbert](https://github.com/jlq05).
+- [Agustín Romero Maturano](https://github.com/Maturano98).
+- [Agustín Xavier Castellani Abriola](https://github.com/agustinxca).
+- [Antonella Ravaioli](https://github.com/antorava1).
+- [Ariel Jans](https://github.com/ArielJans).
+- [Braian Alderete](https://github.com/alderetebraian).
 - [Carolina Barreto](https://github.com/caro-barreto).
-- [Pau Chena](https://github.com/pauchena).
+- [Cristian Dominguez](https://github.com/cristiand391).
+- [Eliana Silva](https://github.com/eliags).
+- [Emma Barrionuevo](https://github.com/Victor-emanuel).
+- [Fabricio Damian Dominguez](https://github.com/DamianDomzz).
+- [Flor Belascuain](https://github.com/lachinu1).
+- [Florencia Quatrin](https://github.com/apuyina).
+- [Galeano Maximiliano](https://github.com/Axewound97).
+- [Jose Quisbert](https://github.com/jlq05).
+- [Jose Roman](https://github.com/Joseroman12).
+- [Julio Cabo](https://github.com/juliocabo).
 - [Laura Juiz](https://github.com/laurajuanna).
+- [Lucrecia Baluczynsky](https://github.com/Lubigsis).
+- [Maira Duarte](https://github.com/mairasaideduarte)
+- [Oswaldo Alvarez](https://github.com/AnubisSekhmet).
+- [Pau Chena](https://github.com/pauchena).
