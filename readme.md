@@ -37,4 +37,5 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 - [Oswaldo Alvarez](https://github.com/AnubisSekhmet).
 - [Paloma Indart](https://github.com/palomaindart).
 - [Pau Chena](https://github.com/pauchena).
--[Lucas Roman](https://github.com/romanlucas1998).
+- [Lucas Roman](https://github.com/romanlucas1998).
+
