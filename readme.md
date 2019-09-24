@@ -38,3 +38,4 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 - [Paloma Indart](https://github.com/palomaindart).
 - [Pau Chena](https://github.com/pauchena).
 - [Ruby Baez](https://github.com/rubybaezg).
+- [Alan Aspi](https://github.com/alanMarcosA).
