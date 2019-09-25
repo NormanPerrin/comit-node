@@ -32,14 +32,11 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 - [Julio Cabo](https://github.com/juliocabo).
 - [Laura Juiz](https://github.com/laurajuanna).
 - [Laura Leon](https://github.com/lauraleon).
+- [Lucas Roman](https://github.com/romanlucas1998).
 - [Lucrecia Baluczynsky](https://github.com/Lubigsis).
 - [Maira Duarte](https://github.com/mairasaideduarte)
 - [Natalia Petito](https://github.com/nataliapetito).
 - [Oswaldo Alvarez](https://github.com/AnubisSekhmet).
 - [Paloma Indart](https://github.com/palomaindart).
 - [Pau Chena](https://github.com/pauchena).
-
-- [Lucas Roman](https://github.com/romanlucas1998).
-
 - [Ruby Baez](https://github.com/rubybaezg).
-
