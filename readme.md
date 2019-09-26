@@ -14,6 +14,7 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 
 ## Alumnos
 
+- [Agustín Romero Maturano](https://github.com/Maturano98).
 - [Agustín Xavier Castellani Abriola](https://github.com/agustinxca).
 - [Alan Aspi](https://github.com/alanMarcosA).
 - [Antonella Ravaioli](https://github.com/antorava1).
