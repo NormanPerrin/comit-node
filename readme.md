@@ -42,3 +42,4 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 - [Pau Chena](https://github.com/pauchena).
 - [Ruby Baez](https://github.com/rubybaezg).
 - [Sebastian Velasquez](https://github.com/SebastianV19).
+- [Samara Cuba](http://github.com/Samara03).
