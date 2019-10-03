@@ -20,3 +20,5 @@ Hicimos:
 
 - [slides](https://comunidadit-villacrespo.github.io/clase-js-basico/).
 - [guía JS](https://nperrin.io/es/tech/guia-introduccion-a-js).
+- [clase, pt 1](https://youtu.be/Gn7Hz0JgR_0).
+- [clase, pt 2](https://youtu.be/yP80L-kHqww).
