@@ -1,4 +1,4 @@
-# Viernes 2
+# Miércoles 2
 
 Hicimos:
 
