@@ -23,9 +23,9 @@
 
 - [slides](https://comunidadit-villacrespo.github.io/clase-js-basico/).
 - [guía JS](https://nperrin.io/es/tech/guia-introduccion-a-js).
-- [clase, pt 1](https://youtu.be/237aRmtwj0U)
+- [clase, pt 1](https://youtu.be/237aRmtwj0U).
+- [clase, pt 2](https://youtu.be/MpWXvWQG9ew).
 
 ## Pendientes profe
 
 - Subir ejercicios de práctica.
-- Subir videos de la clase.
