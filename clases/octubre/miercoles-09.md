@@ -30,6 +30,10 @@ Al final del evento se elige un equipo ganador.
     - padre
     - `innerHTML`
     - atributos
+- Funciones globales
+  - `setInterval`
+  - `setTimeout`
+  - `clearInterval`
 
 ## Enlaces
 
