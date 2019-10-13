@@ -16,8 +16,8 @@
 ## Enlaces
 
 - [Ejercicios](https://github.com/NormanPerrin/comit-node/blob/master/ejercicios/funciones.md).
+- [Video errores comunes funciones](https://youtu.be/32gRzX6PG-E).
 
 ## Pendientes profe
 
-- Subir video clase.
 - Hacer más ejercitación.
