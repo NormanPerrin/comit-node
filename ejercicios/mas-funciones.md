@@ -1,12 +1,6 @@
 # Más ejercicios de funciones
 
-- Variables afuera y parámetros
-- Funciones como valor
-- Múltiples llamados con diferentes valores.
-- Llamado función adentro de otra.
-- Usar funciones que devuelvan otras funciones.
-
-## Parte 1: variables y parámetros
+## Parte 1: variables vs parámetros
 
 1. Crear una función "decirPersonalidad", la cual reciba un objeto por parámetro y muestre por consola su atributo con nombre "personalidad". Una vez definida la función, llamarla de 2 formas:
     1. definiendo un objeto llamado "persona" en una variable, y luego llamar la función "decirPersonalidad".
@@ -18,7 +12,7 @@
     1. Qué valor va a imprimir por consola si vuelvo a definir la función "variableParametro" sin parámetros, y la ejecuto con el valor "soy un parametro"?
     1. Qué podrían hacer para no caer en confusión cuando tienen un parámetro con mismo nombre que una variable definida afuera de la función?
 
-## Parte 2: modificando objetos
+## Parte 2: jodiendo al programador
 
 Para hacer los siguientes ejercicios, vamos a usar la función `Object.assign`.
 
@@ -51,5 +45,4 @@ Ejercicios:
 1. Crear una función "dormir", la cual recibe un programador y un número de horas dormidas, y retorna un programador con 1 nivel de `energia` más por hora dormida, y 2 niveles de `quemades` menos por hora dormida.
 1. Crear una función "simularDespido", que reciba un programador, y si luego de tomar cafe y dormir 2 horas no es productivo, retorne un programador no empleado, de lo contrario retornar el mismo programador.
 1. Crear una función "simularContratacion", que reciba un programador, y si su nivel de `energia` es mayor a 8, su quemadés es menor a 2, y no es empleado, que retorne un programador empleado.
-
-to be continue...
+1. Crear una función "accion", que reciba un programador y una función de las anteriores creadas como parámetros. La misma debe imprimir por consola el programador, luego ejecutar la función recibida por parámetro con el programador, y finalmente otra impresión por consola del programador.
