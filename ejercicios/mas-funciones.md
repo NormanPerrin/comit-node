@@ -36,10 +36,10 @@ Ejercicios:
     - nombre: texto
     - quemades: número entre 0 y 10.
     - energia: número entre 0 y 10.
-    - esProductivo: función que retorne...
-        - `true` cuando el `quemades` sea menor a `energia`.
-        - `false` cuando no pase lo anterior.
     - empleado: false
+1. Crear una función "esProductivo", que reciba un programador y retorne:
+    - `true` cuando el `quemades` sea menor a `energia`.
+    - `false` cuando no pase lo anterior.
 1. Crear una función "tomarCafe", la cual recibe un programador, y retorna un programador con nivel de quemadés con 2 niveles menos de los que tenía, y energia con 3 niveles más de lo que tenía.
 1. Crear una funcíon "programar", la cual recibe un programador y un número de horas trabajadas, y retorna un programador con 1 nivel de `energia` menos por cada hora trabajada, y 2 niveles de `quemades` más por hora trabajada.
 1. Crear una función "dormir", la cual recibe un programador y un número de horas dormidas, y retorna un programador con 1 nivel de `energia` más por hora dormida, y 2 niveles de `quemades` menos por hora dormida.
