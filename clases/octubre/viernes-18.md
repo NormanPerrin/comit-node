@@ -2,7 +2,9 @@
 
 ## Anuncios
 
-El mini Hackaton se va a hacer el viernes 25. Más información [acá](https://pad.riseup.net/p/comit-atos).
+El mini Hackaton se va a hacer el viernes 25.
+
+Pueden ver más información [acá](https://pad.riseup.net/p/comit-atos) y compartir sus ideas.
 
 ## Hicimos
 
