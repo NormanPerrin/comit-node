@@ -35,7 +35,7 @@ El `querySelector` acepta un texto, con un selector, como CSS.
 1. selección por clase del elemento: `".nombre-de-clase"`.
 2. selección por etiqueta: `"h1"`.
 3. selección por id: `"#nombre-identificador"`.
-4. selección atributo - valor: `"a[href]='#'"`.
+4. selección atributo - valor: `"a[href='#']"`.
 
 ## Modificar elemento
 
