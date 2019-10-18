@@ -1,6 +1,28 @@
 # Manipulación DOM
 
+## Usando funciones desde HTML
+
+Lo primero que vamos a querer hacer es "vincular" nuestro HTML con JS, para eso podemos ejecutar funciones cuando un botón reciba el evento "click".
+
+En nuestro .html agregamos:
+
+```html
+<button onclick="miFuncion()"></button>
+```
+
+En .js definimos:
+
+```js
+function miFuncion() {
+	console.log("la función funciona! :)")
+}
+```
+
 ## Buscar elemento
+
+En el ejercicio de manipular elementos HTML, es importante usar las herramientas de desarrollador.
+
+Antes de buscar un elemento HTML, debemos ver cómo seleccionarlo. Para eso podemos inspeccionar el elemento a seleccionar con las herramientas de desarrollador, ver su estructura, e intentar seleccionarlo.
 
 ```js
 var elemento = document.querySelector('h1')
@@ -45,7 +67,7 @@ Cambiar atributo:
 elementoHtml.atributo = "algun valor"
 ```
 
-## Ejemplo
+## Ejemplo buscar y modificar
 
 Agrego contenido al body:
 
@@ -63,3 +85,40 @@ var link = document.querySelector("a[href='#']")
 link.innerText = "Un LINK"
 link.href = "https://google.com"
 ```
+
+## Agregando y sacando clases
+
+Cuando tenemos un elemento HTML, podemos acceder a su listado de clases y agregar, modificar, o "togglear" una clase.
+
+```js
+// agregar
+elementoHtml.classList.add('nombre-de-clase')
+
+// eliminar
+elementoHtml.classList.remove('nombre-de-clase')
+```
+
+Qué es eso de "togglear". No hay una buena traducción al castellano de la palabra, pero básicamente lo que hacemos cuando usamos `toggle`, es: si la clase está en el elemento HTML, la elimina, de lo contrario, si la clase no está en el elemento HTML, la agrega.
+
+Supongamos que `elementoHtml` no tiene la clase "nombre-de-clase".
+
+```js
+// la agrega
+elementoHtml.classList.toggle('nombre-de-clase')
+
+// la elimina
+elementoHtml.classList.toggle('nombre-de-clase')
+
+// la agrega
+elementoHtml.classList.toggle('nombre-de-clase')
+
+// la elimina
+elementoHtml.classList.toggle('nombre-de-clase')
+
+// ...
+```
+
+## Buenas prácticas
+
+TODO...
+
