@@ -118,7 +118,41 @@ elementoHtml.classList.toggle('nombre-de-clase')
 // ...
 ```
 
-## Buenas prácticas
+## Cambiar estilos directamente
 
-TODO...
+```js
+// cambia el width a 200px
+elementoHtml.style.width = 200
 
+// cambia el width a 40%
+elementoHtml.style.width = "40%"
+
+// para propiedades que lleven "-", se separa con mayúscula
+elementoHtml.style.flexDirection = "column"
+```
+
+## Reaccionar a eventos
+
+Primero debemos saber qué elemento queremos que escuche al evento. Puede ser un botón para el evento "click", o el body para escuchar teclas que se presionen (keydown).
+
+```js
+// "evento" es información del evento
+function moverCirculo(event) {
+	var circulo = document.querySelector('.circulo')
+
+	if(event.key === "ArrowUp") {
+		circulo.classList.remove('abajo')
+	}
+	if(event.key === "ArrowRight") {
+		circulo.classList.add('derecha')
+	}
+	if(event.key === "ArrowLeft") {
+		circulo.classList.remove('derecha')
+	}
+	if(event.key === "ArrowDown") {
+		circulo.classList.add('abajo')
+	}
+}
+
+document.body.addEventListener('keydown', moverCirculo)
+```
