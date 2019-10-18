@@ -1,0 +1,98 @@
+<style>
+    * {
+        box-sizing: border-box;
+        transition: all 1s ease-in-out;
+    }
+
+    body {
+        margin: 0;
+    }
+
+    figure {
+        position: absolute;
+        top: 10vh;
+        width: 100%;
+    }
+
+    .pou {
+        width: 300px;
+        height: 300px;
+        margin: auto;
+        border-radius: 50%;
+        background-color: burlywood;
+    }
+
+    .ojos {
+        width: 100%;
+        height: 30px;
+        padding: 0 20%;
+        position: relative;
+        top: 30%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .ojos div {
+        width: 30px;
+        border: 5px solid whitesmoke;
+        background-color: saddlebrown;
+        border-radius: 50%;
+    }
+
+    .nariz {
+        top: 30%;
+        position: relative;
+        left: calc(50% - 10px);
+        width: 20px;
+        height: 20px;
+        background-color: black;
+        border-radius: 50%;
+    }
+
+    .boca {
+        position: relative;
+        top: 50%;
+        width: 60px;
+        height: 5px;
+        background-color: brown;
+        margin: auto;
+    }
+
+    button {
+        position: absolute;
+        padding: 10px;
+        border-radius: 20px;
+        font-size: 20px;
+        background-color: palegreen;
+        bottom: 10vw;
+        left: 45vw;
+        width: 20vw;
+        cursor: pointer;
+        transition: background-color .2s ease;
+    }
+    button:active {
+        background-color: purple;
+        transform: translateY(2px);
+        transition: background-color .2s ease;
+    }
+</style>
+
+<figure>
+    <div class="pou">
+        <div class="ojos">
+            <div></div>
+            <div></div>
+        </div>
+        <div class="nariz"></div>
+        <div class="boca"></div>
+    </div>
+</figure>
+
+<button onclick="comer()">Comer</button>
+
+<script>
+    function comer() {
+        var pou = document.querySelector(".pou")
+        pou.style.width = pou.clientWidth + 100
+        pou.style.height = pou.clientWidth + 100
+    }
+</script>
