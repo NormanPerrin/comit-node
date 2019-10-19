@@ -16,6 +16,8 @@ Pueden ver más información [acá](https://pad.riseup.net/p/comit-atos) y compa
     - eventos.
     - [práctica](https://codepen.io/normanperrin/pen/YvJMqW?editors=1010).
 
-## Pendientes profe
+## Clase grabada
 
-Subir videos clase.
+- [parte 1: funciones](https://youtu.be/CioNzGJeJAw)
+- [parte 2: document pt. 1](https://youtu.be/FBjkzM6sEiQ)
+- todo: subir pt. 2 document
