@@ -20,4 +20,4 @@ Pueden ver más información [acá](https://pad.riseup.net/p/comit-atos) y compa
 
 - [parte 1: funciones](https://youtu.be/CioNzGJeJAw)
 - [parte 2: document pt. 1](https://youtu.be/FBjkzM6sEiQ)
-- todo: subir pt. 2 document
+- [parte 2: document pt. 2](https://youtu.be/PdR9Hmo_UrM)
