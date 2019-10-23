@@ -1,0 +1,86 @@
+<style>
+    body {
+        margin: 0;
+        background-color: cadetblue;
+    }
+
+    main {
+        padding: 10px;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    form {
+        margin: auto;
+        max-width: 500px;
+    }
+
+    .fila {
+        display: grid;
+        grid-template-columns: 15px max-content 1fr;
+        grid-column-gap: 1em;
+        margin-bottom: 1em;
+    }
+
+    .indicador {
+        width: 15px;
+        height: 15px;
+        border: 1px solid #333;
+        border-radius: 50%;
+        background-color: white;
+    }
+
+    input[type="submit"] {
+        display: block;
+        margin: 1em auto;
+        font-size: 18px;
+    }
+</style>
+
+<main>
+    <h1>Cuestionario</h1>
+
+    <form>
+        <label for="profe" class="fila">
+            <span class="indicador"></span>
+            <span>Nombre profe</span>
+            <input id="profe" oninput="validar(event)">
+        </label>
+
+        <label for="ayudante" class="fila">
+            <span class="indicador"></span>
+            <span>Nombre ayudante</span>
+            <input id="ayudante" oninput="validar(event)">
+        </label>
+
+        <label for="simulacro" class="fila">
+            <span class="indicador"></span>
+            <span>Hay simulacro?</span>
+            <input id="simulacro" oninput="validar(event)">
+        </label>
+
+        <input type="submit" value="Enviar">
+    </form>
+</main>
+
+<script>
+    var respuestas = {
+        profe: 'norman',
+        ayudante: 'fer',
+        simulacro: 'no'
+    }
+
+    function validar(evento) {
+        var input = evento.target
+        var valor = input.value
+        var respuesta = respuestas[input.id]
+        if (valor === respuesta) {
+            var selector = `label[for="${input.id}"] .indicador`
+            var indicador = document.querySelector(selector)
+            indicador.style.backgroundColor = 'green'
+            input.disabled = true
+        }
+    }
+</script>
