@@ -37,6 +37,6 @@
 - [Fabricio Damian Dominguez](https://github.com/DamianDomzz).
 - [Emma Barrionuevo](https://github.com/Victor-emanuel).
 - [Julio Cabo](https://github.com/juliocabo).
-- [Sebastian Velasquez](https://github.com/SebastianV19).
+- [Jose Quisbert](https://github.com/jlq05).
 - [Agustín Xavier Castellani Abriola](https://github.com/agustinxca).
 - [Agustín Romero Maturano](https://github.com/Maturano98).
