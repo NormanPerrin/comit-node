@@ -133,6 +133,8 @@ elementoHtml.style.flexDirection = "column"
 
 ## Reaccionar a eventos
 
+## addEventListener
+
 Primero debemos saber qué elemento queremos que escuche al evento. Puede ser un botón para el evento "click", o el body para escuchar teclas que se presionen (keydown).
 
 ```js
@@ -155,4 +157,28 @@ function moverCirculo(event) {
 }
 
 document.body.addEventListener('keydown', moverCirculo)
+```
+
+## declarando en HTML
+
+Primero, deben declarar en el HTML la función a ejecutar cuando se "dispara" el evento.
+
+Es importante pasarle el objeto `event`, así `validar` obtiene información del evento.
+
+```html
+<input id="profesor" oninput="validar(event)">
+```
+
+Luego definen la función.
+
+```js
+function validar(evento) {
+	var input = evento.target
+	var valor = input.value
+	var respuesta = respuestas[input.id]
+	if(valor === respuesta) {
+		var indicador = document.querySelector('label[for="' + input.id + '"] .indicador')
+		indicador.style.backgroundColor = 'green'
+	}
+}
 ```
