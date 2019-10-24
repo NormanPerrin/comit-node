@@ -1,0 +1,48 @@
+<style>
+    body {
+        width: 100vh;
+        overflow-y: hidden;
+        background-color: black;
+    }
+
+    .particula {
+        width: 5px;
+        height: 20px;
+        position: absolute;
+        top: -100px;
+        border-radius: 50%;
+        background-color: rgba(0, 255, 221, 0.5);
+        animation: caer 3s forwards ease-in;
+    }
+
+    @keyframes caer {
+        to {
+            top: calc(100vh + 20px);
+        }
+    }
+</style>
+
+<body>
+    <script>
+        function random() {
+            return Math.floor(Math.random() * 100)
+        }
+
+        function crearParticula() {
+            var particula = document.createElement('figure')
+            particula.classList.add('particula')
+            particula.style.left = `${random()}vw`
+            return particula
+        }
+
+        setInterval(function () {
+            var particula = crearParticula()
+            document.body.appendChild(particula)
+            // Después de 3 segundos, cuando termina la animación,
+            // borro al elemento, así no se llena el HTML de elementos.
+            setTimeout(function () {
+                particula.remove()
+            }, 3000)
+        }, 10)
+    </script>
+</body>
