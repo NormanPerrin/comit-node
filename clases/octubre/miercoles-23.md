@@ -7,9 +7,12 @@
     - Accediendo a información del evento.
     - Cómo acceder a atributos de objetos pasándo un valor.
 
+## Enlaces
+
+- [video primer mitad](https://youtu.be/c10YgHO1Ffk).
+
 ## Pendientes profe
 
-- Subir video primer parte clase.
 - Mejorar apunte [manipulación elementos HTML](/apuntes/manipulacion-dom.md).
 
 ## Pendientes alumnos
