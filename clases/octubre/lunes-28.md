@@ -7,12 +7,8 @@
 
 ## Hicimos
 
-- Introducción a NodeJS.
+- [Introducción a NodeJS](https://youtu.be/FiROu4nP-eM).
 - [Práctica parámetros de un programa en NodeJS](/ejercicios/node.md).
-
-## Pendientes profe
-
-- Subir video primer mitad clase.
 
 ## Pendientes alumnos
 
