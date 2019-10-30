@@ -6,4 +6,4 @@
     - Intro node.
     - Parámetros para programas.
 - [Módulos en NodeJS](https://youtu.be/Y7lDc-e-np4).
-- [Práctica](/ejercicios/modulos.md)
+- [Práctica](/ejercicios/node-modulos.md)
