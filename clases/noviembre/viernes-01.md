@@ -7,11 +7,9 @@
 - Explicación [módulo fs](/apuntes/modulo_fs.md).
 - Explicación función [replace](/ejemplos-node/replace.md) para strings.
 - Explicación [archivos JSON](/ejemplos-node/json.md).
-- [Ejercitación fs](/ejercicios/file-system.md).
+- [Ejercitación fs](/ejercicios/file-system.md). 
 
-## Pendiente profe
-
-- Subir video clase.
+## [Video de la clase](https://youtu.be/DUUsW-lb7Mo)
 
 ## Pendientes alumnos
 
