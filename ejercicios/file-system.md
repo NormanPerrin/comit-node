@@ -28,9 +28,9 @@
 }
 ```
 
-5. Crear un programa que lea un archivo, la ruta la obtendrá por parámetro, y muestre su contenido en consola.
-6. Crear un programa que importe el archivo "config.json" y muestre el título por consola.
-7. Crear un programa que lea un archivo, la ruta la obtendrá por parámetro, y muestre su contenido en consola, **pero** esta vez, reemplazando `@titulo@` por el título que esté en el archivo "config.json", y así con las otras variables del html.
+6. Crear un programa que lea un archivo, la ruta la obtendrá por parámetro, y muestre su contenido en consola.
+7. Crear un programa que importe el archivo "config.json" y muestre el título por consola.
+8. Crear un programa que lea el archivo `index.hmtl` y muestre su contenido en consola, **pero** esta vez, reemplazando `@titulo@` por el título que esté en el archivo "config.json", y así con las otras variables del html.
 
 
 ## Ejercicio Final 😱
