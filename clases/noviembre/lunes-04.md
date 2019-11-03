@@ -16,5 +16,5 @@
 
 - Seguir pensando o desarrollando el proyecto final.
 - Hacer práctica http.
-- Crearse una cuenta en [Heroku](https://www.heroku.com/) e instalarse un herramienta de consola (CLI).
+- Crearse una cuenta en [Heroku](https://www.heroku.com/) e instalarse su [herramienta de consola](https://devcenter.heroku.com/articles/heroku-cli) (CLI).
 - Instalarse [Postman](https://www.getpostman.com/)
