@@ -2,11 +2,14 @@
 
 ## Hicimos
 
-- Repaso file system y práctica ejercicio integral.
-- Explicación [funciones JSON](/ejemplos-node/json.md) (`parse` y `stringify`).
-- [Introducción HTTP (URL, endpoint, códigos de respuesta, acciones)](/apuntes/http.md).
-- Usando módulo HTTP.
-- [Ejercicios HTTP](/ejercicios/http.md).
+- Repaso node
+    1. [argv](https://github.com/NormanPerrin/comit-node/blob/master/ejercicios/node.md)
+    2. [módulos](https://github.com/NormanPerrin/comit-node/blob/master/ejercicios/node-modulos.md)
+    3. [manejo archivos](https://github.com/NormanPerrin/comit-node/blob/master/ejercicios/file-system.md)
+- Apuntes que ayudan
+    - Ejemplo [módulos](/ejemplos-node/modulos)
+    - Ejemplo [JSON](/ejemplos-node/json.md)
+    - Ejemplo [replace](/ejemplos-node/replace.md)
 
 ## Pendientes profe
 
@@ -15,6 +18,8 @@
 ## Pendientes alumnos
 
 - Seguir pensando o desarrollando el proyecto final.
-- Hacer práctica http.
-- Crearse una cuenta en [Heroku](https://www.heroku.com/) e instalarse su [herramienta de consola](https://devcenter.heroku.com/articles/heroku-cli) (CLI).
-- Instalarse [Postman](https://www.getpostman.com/)
+- Terminar ejercicios
+    1. [argv](https://github.com/NormanPerrin/comit-node/blob/master/ejercicios/node.md)
+    2. [módulos](https://github.com/NormanPerrin/comit-node/blob/master/ejercicios/node-modulos.md)
+    3. [manejo archivos](https://github.com/NormanPerrin/comit-node/blob/master/ejercicios/file-system.md)
+- Preguntar al profe si se traban en algo.
