@@ -15,7 +15,7 @@ Comunidad de programadores en CABA: [Free Code Camp BA](https://freecodecampba.o
 ## Hicimos
 
 - [Resolución ejercicio integrador](#).
-- Introducción módulo http.
+- Introducción módulo [http](/apuntes/http.md).
 
 ## Ganadores del Kahoot
 
