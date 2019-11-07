@@ -14,7 +14,7 @@ Comunidad de programadores en CABA: [Free Code Camp BA](https://freecodecampba.o
 
 ## Hicimos
 
-- [Resolución ejercicio integrador](#).
+- [Resolución ejercicio integrador](https://youtu.be/JW-mgKfD0X8).
 - Introducción módulo [http](/apuntes/http.md).
 
 ## Ganadores del Kahoot
@@ -26,7 +26,3 @@ Comunidad de programadores en CABA: [Free Code Camp BA](https://freecodecampba.o
 ## Pendientes alumnos
 
 Seguir pensando o desarrollando su proyecto final.
-
-## Pendientes profe
-
-Subir video clase
