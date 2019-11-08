@@ -1,12 +1,11 @@
-# Lunes 4
+# Viernes 8
 
 ## Hicimos
 
-- Repaso file system y práctica ejercicio integral.
-- Explicación [funciones JSON](/ejemplos-node/json.md) (`parse` y `stringify`).
+- [Práctica temas anteriores NodeJS](https://github.com/NormanPerrin/comit-node/blob/master/ejercicios/repaso-general-node.md).
 - [Introducción HTTP (URL, endpoint, códigos de respuesta, acciones)](/apuntes/http.md).
-- Usando módulo HTTP.
-- [Ejercicios HTTP](/ejercicios/http.md).
+- [Ejercicios HTTP](/ejercicios/http.md) (solo los 2 primeros).
+- Explicación [funciones JSON](/ejemplos-node/json.md) (`parse`).
 
 ## Pendientes profe
 
