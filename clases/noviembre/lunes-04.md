@@ -2,7 +2,7 @@
 
 ## Hicimos
 
-- Repaso node
+- [Repaso node](https://youtu.be/eNS9_In2Kl8)
     1. [argv](https://github.com/NormanPerrin/comit-node/blob/master/ejercicios/node.md)
     2. [módulos](https://github.com/NormanPerrin/comit-node/blob/master/ejercicios/node-modulos.md)
     3. [manejo archivos](https://github.com/NormanPerrin/comit-node/blob/master/ejercicios/file-system.md)
@@ -10,10 +10,6 @@
     - Ejemplo [módulos](/ejemplos-node/modulos)
     - Ejemplo [JSON](/ejemplos-node/json.md)
     - Ejemplo [replace](/ejemplos-node/replace.md)
-
-## Pendientes profe
-
-- Subir video clase.
 
 ## Pendientes alumnos
 
