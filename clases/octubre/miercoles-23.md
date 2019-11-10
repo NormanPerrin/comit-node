@@ -13,7 +13,7 @@
 
 ## Pendientes profe
 
-- Mejorar apunte [manipulación elementos HTML](/apuntes/manipulacion-dom.md).
+- Mejorar apunte [manipulación elementos HTML](/apuntes/front/manipulacion-dom.md).
 
 ## Pendientes alumnos
 

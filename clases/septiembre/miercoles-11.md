@@ -8,8 +8,8 @@ Clase HTML, hicimos:
 
 ## Enlaces
 
-1. [Guía desarrollo web](/apuntes/desarrollo-web.md).
-1. [Código del ejemplo](/ejemplos/html/basico).
+1. [Guía desarrollo web](/apuntes/front/desarrollo-web.md).
+1. [Código del ejemplo](https://github.com/NormanPerrin/ejemplos-desarrollo-web/tree/master/html/basico).
 
 ## Para casa
 

@@ -3,7 +3,7 @@
 ## Hicimos
 
 - Repaso funciones: [resolución ejercicios](https://youtu.be/M53-noMfC_s).
-- [Práctica funciones](/ejercicios/funciones.md).
+- [Práctica funciones](/ejercicios/js/funciones.md).
 
 ## Lo que viene
 

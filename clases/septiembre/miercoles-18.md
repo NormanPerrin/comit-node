@@ -25,11 +25,11 @@ Hicimos:
 
 ## Ejemplos
 
-- [Estructura columnas con flexbox](/ejemplos/css/flexbox).
-- [Animaciones](/ejemplos/css/animaciones).
-- [formularios HTML](/ejemplos/html/formularios.html).
-- [media queries](/ejemplos/css/media-queries).
-- [fuentes](/ejemplos/css/fuentes).
+- [Estructura columnas con flexbox](https://github.com/NormanPerrin/ejemplos-desarrollo-web/tree/master/css/flexbox).
+- [Animaciones](https://github.com/NormanPerrin/ejemplos-desarrollo-web/tree/master/css/animaciones).
+- [formularios HTML](https://github.com/NormanPerrin/ejemplos-desarrollo-web/blob/master/html/formularios.html).
+- [media queries](https://github.com/NormanPerrin/ejemplos-desarrollo-web/tree/master/css/media-queries).
+- [fuentes](https://github.com/NormanPerrin/ejemplos-desarrollo-web/tree/master/css/fuentes).
 
 ## Pendientes alumno
 

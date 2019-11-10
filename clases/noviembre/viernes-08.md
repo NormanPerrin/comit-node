@@ -2,10 +2,10 @@
 
 ## Hicimos
 
-- [Práctica temas anteriores NodeJS](https://github.com/NormanPerrin/comit-node/blob/master/ejercicios/repaso-general-node.md).
-- [Introducción HTTP (URL, endpoint, códigos de respuesta, acciones)](/apuntes/http.md).
-- [Ejercicios HTTP](/ejercicios/http.md) (solo los 2 primeros).
-- Explicación [funciones JSON](/ejemplos-node/json.md) (`parse`).
+- [Práctica temas anteriores NodeJS](/ejercicios/back/repaso-general-node.md).
+- [Introducción HTTP (URL, endpoint, códigos de respuesta, acciones)](/apuntes/back/http.md).
+- [Ejercicios HTTP](/ejercicios/back/http.md) (solo los 2 primeros).
+- Explicación [funciones JSON](/apuntes/back/json.md) (`parse`).
 
 ## Pendientes profe
 

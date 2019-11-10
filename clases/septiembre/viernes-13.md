@@ -17,22 +17,22 @@ Clase continuación HTML e introducción CSS. Vimos...
 
 ## Pendientes alumnos
 
-- Leer la [Guía desarrollo web](/apuntes/desarrollo-web.md).
+- Leer la [Guía desarrollo web](/apuntes/front/desarrollo-web.md).
 - Practicar con su portfolio.
 - Curiosear.
 
 ## Pendientes profe
 
-- Subir explicación **rutas relativas y absolutas**: [enlace](/apuntes/rutas-absolutas-y-relativas.md).
-- Subir explicación etiqueta `meta` para `viewport`: [enlace](/apuntes/vscode-meta-elementos-defecto.md).
+- Subir explicación **rutas relativas y absolutas**: [enlace](/apuntes/otros(rutas-absolutas-y-relativas.md).
+- Subir explicación etiqueta `meta` para `viewport`: [enlace](/apuntes/otros/vscode-meta-elementos-defecto.md).
 - Subir explicación estilos con `div` y `span`, explicando dónde se suele usar cada uno.
 - Subir explicación estilos con distintas unidades de medición, `vh`, `vw`, `px`, `%`.
 - Subir video atajos VSCode.
 
 ## Enlaces
 
-- [Guía desarrollo web](/apuntes/desarrollo-web.md).
+- [Guía desarrollo web](/apuntes/front/desarrollo-web.md).
 
 ## Ejemplos de clase
 
-- [portfolio](/ejemplos/html/portfolio).
+- [portfolio](https://github.com/NormanPerrin/ejemplos-desarrollo-web/tree/master/html/portfolio).

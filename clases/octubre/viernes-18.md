@@ -9,7 +9,7 @@ Pueden ver más información [acá](https://pad.riseup.net/p/comit-atos) y compa
 ## Hicimos
 
 - Repaso funciones.
-- [Manipulación DOM](/apuntes/manipulacion-dom.md)
+- [Manipulación DOM](/apuntes/front/manipulacion-dom.md)
     - seleccionar.
     - modificar.
     - clases.
