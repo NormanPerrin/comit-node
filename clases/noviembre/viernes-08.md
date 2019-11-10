@@ -3,13 +3,9 @@
 ## Hicimos
 
 - [Práctica temas anteriores NodeJS](/ejercicios/back/repaso-general-node.md).
-- [Introducción HTTP (URL, endpoint, códigos de respuesta, acciones)](/apuntes/back/http.md).
-- [Ejercicios HTTP](/ejercicios/back/http.md) (solo los 2 primeros).
-- Explicación [funciones JSON](/apuntes/back/json.md) (`parse`).
-
-## Pendientes profe
-
-- Subir video clase.
+- [Introducción HTTP (URL, endpoint, códigos de respuesta, acciones)](/apuntes/back/http.md) - [video](https://youtu.be/QM1SEVLnr3Y)..
+- [Ejercicios HTTP](/ejercicios/http.md) (solo los 2 primeros).
+- Explicación [funciones JSON](/ejemplos-node/json.md) (`parse`).
 
 ## Pendientes alumnos
 
