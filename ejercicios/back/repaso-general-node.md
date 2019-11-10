@@ -1,4 +1,4 @@
-# Repaso gral de NodeJS
+#  🔥 Repaso gral de NodeJS 🔥
 
 1. Crear un programa que cuando se ejecute, obtenga el nombre que se le pasa por parámetro y muestre por consola el mensaje "Hola [nombre]" reemplazando `[nombre]` por el que obtenga como primer parámetro.
 2. Crear un programa que obtenga la edad por parámetro cuando se ejecute, y muestre por consola el mensaje "mayor" si la edad ingresada es `>18` o menor en el caso contrario.
