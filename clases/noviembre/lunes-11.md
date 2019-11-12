@@ -4,9 +4,9 @@
 
 - [Ejercicio repaso](#ejercicio%20repaso) + [resolución](https://youtu.be/HNRX6X6lTYw)
 - [Repaso teoría http](/apuntes/back/http.md)
-- [Instalar módulos con npm](/apuntes/back/modulo-fs.md#3-externos) + [explicación](https://youtu.be/HNRX6X6lTYw)
+- [Instalar módulos con npm](/apuntes/back/modulo-fs.md#3-externos) + [explicación](https://youtu.be/B-zeSlKxfKk)
 - Simulacro evacuación.
-- [Explicación node-fetch](/apuntes/back/node-fetch.md) + [explicación](https://youtu.be/HNRX6X6lTYw)
+- [Explicación node-fetch](/apuntes/back/node-fetch.md) + [explicación](https://youtu.be/B-zeSlKxfKk)
 - [Ejercicios node-fetch](/ejercicios/back/fetch.md)
 
 ## Pendientes profe
