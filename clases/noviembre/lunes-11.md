@@ -2,17 +2,16 @@
 
 ## Hicimos
 
-- [Ejercicio repaso](#ejercicio%20repaso)
+- [Ejercicio repaso](#ejercicio%20repaso) + [resolución](https://youtu.be/HNRX6X6lTYw)
 - [Repaso teoría http](/apuntes/back/http.md)
-- [Instalar módulos con npm](/apuntes/back/modulo-fs.md#3-externos)
+- [Instalar módulos con npm](/apuntes/back/modulo-fs.md#3-externos) + [explicación](https://youtu.be/HNRX6X6lTYw)
 - Simulacro evacuación.
-- [Explicación node-fetch](/apuntes/back/node-fetch.md)
-- [Ejercicios node-fetch](/ejercicios/back/fetch.md )
+- [Explicación node-fetch](/apuntes/back/node-fetch.md) + [explicación](https://youtu.be/HNRX6X6lTYw)
+- [Ejercicios node-fetch](/ejercicios/back/fetch.md)
 
 ## Pendientes profe
 
 - Terminar servidor ejercicios node-fetch. Últimos ejercicios. (mañana probablemente...)
-- Subir videos clase (noche)
 
 ## Pendientes alumnos
 
