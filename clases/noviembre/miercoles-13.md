@@ -4,6 +4,7 @@
 
 - Repaso [`node-fetch`](/apuntes/back/node-fetch.md).
 - [Teoría http](/apuntes/back/http.md).
+- Uso de [`JSON.stringify`](/apuntes/back/json.md#transformar-objeto-a-string).
 - [Práctica http](/ejercicios/back/http.md) (del 3 en adelante).
 
 ## Pendientes profe
