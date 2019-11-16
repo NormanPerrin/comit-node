@@ -56,5 +56,5 @@ var colores = ['rojo', 'amarillo']
 
 colores.push('azul')
 
-console.log() //> ['rojo', 'amarillo', 'azul']
+console.log(colores) //> ['rojo', 'amarillo', 'azul']
 ```
