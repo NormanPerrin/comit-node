@@ -44,3 +44,17 @@ Si no se especifica el header `accept`, se deberá responder con `application/js
 El servidor deberá seguir funcionando como antes para los métodos `GET` a `/emoji`.
 
 No se olviden de responderle algo aunque les hagan `POST`.
+
+### Aclaración importante
+
+Ahora se está declarando la lista de emojis en la función `obtenerEmoji`. Para que se pueda acceder globalmente la variable `emojis`, la misma deberá ser declarada afuera de la función, y es la variable que luego se va a tener que usar.
+
+Para agregar un emoji pueden usar la función `push` de Arrays.
+
+```js
+var colores = ['rojo', 'amarillo']
+
+colores.push('azul')
+
+console.log() //> ['rojo', 'amarillo', 'azul']
+```
