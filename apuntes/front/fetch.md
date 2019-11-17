@@ -22,7 +22,7 @@ async function obtener_feriados_nacionales() {
 }
 
 obtener_feriados_nacionales()
-<script>
+</script>
 ```
 
 Este padecito de JavaScript lo único que hace es hacer un GET a la url `url_feriados` y "volcar" el texto que recibe en el `body`. Sin usar etiquetas ni nada. Lo cual lo hace un poco feo a la vista.
