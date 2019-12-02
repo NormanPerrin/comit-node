@@ -1,0 +1,46 @@
+MONGO DB
+
+BASES :
+
+* Permite guardar documentos en formato JSON.
+* Tiene esquema flexible (osea que podemos cambiar la estructura de nuestros documentos sin problema)
+* MongoDB está preparado para escalar fácilmente de manera horizontal 
+<agregar una imagen>
+
+Cuando podria usar Bases de datos?
+
+*Cuando mi aplicacion tiene un crecimiento muy rapido.
+*Cuando mi aplicacion va a tener servidores en la nube.
+*cuando quiero montar una base de datos lo mas rapido posible.
+
+Mongo server :
+ 
+ <crear o insertar imagen de estructura>
+
+Los documentos se representan por pares de CLAVE (nombre del campo) y VALOR (valor del campo).
+ -Los nombres de los campos siempre son cadenas de textos
+ -Los valores pueden ser : String ,Number , Array ,BOolean etc.
+
+Configurar el ambiente de MongoDB :
+
+*MongoDB necesita que le configuremos un directorio donde guardar todos los datos
+
+*Por defecto MongoDB utiliza la carpeta \data\db de donde se levanta el servidor 
+
+*Vamos a crear esta carpeta para configurar los datos ( en resumen , creamos un directorio /data y un subdirectorio /bd)
+
+*En esta carpeta vamos a almacenar toda la informacion que guardemos en mongoDB
+
+pds: Es importante hacer estos pasos, sino explota todo y no va a funcionar nada :) .
+
+Levantar una instancia de mongod :
+
+*Para poder levantar el servidor de MongoDB tenemos que correr el siguiente script según el sistema operativo que tengamos.
+
+En windows por ejemplo es 
+    mongod.exe
+
+
+
+
+Crear un documento :
