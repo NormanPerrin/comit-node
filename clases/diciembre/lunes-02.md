@@ -3,7 +3,7 @@
 ## Hicimos
 
 - Explicación módulo express
-    - [Video explicación](#) (pendiente subir).
+    - [Video explicación](https://youtu.be/93dOGMXRJ-o).
     - [Video ejemplo](https://youtu.be/wqv9clwz0uM).
 
 ## Pendientes alumnos
